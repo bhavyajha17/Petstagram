@@ -1,2 +1,2 @@
 # Petstagram
-This is an instagram clone for pets. Designed using Html, CSS, Js 
+This is an instagram clone for pets using FULL STACK DEVELOPMENT.
